@@ -1,0 +1,26 @@
+{
+  "name": "wagyu-beef-burger",
+  "version": "1.0.0",
+  "description": "I'm going to show you how to order a friggen burger using commands. #GordenRamsey2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScriptKiddie1337/wagyu-beef-burger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScriptKiddie1337/wagyu-beef-burger/issues"
+  },
+  "homepage": "https://github.com/ScriptKiddie1337/wagyu-beef-burger#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.16.0"
+  }
+}
