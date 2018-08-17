@@ -78,7 +78,7 @@ var orm = {
 
     queryString += " SET ";
     queryString += objToSql(objColVals);
-    queryString += "1"
+  
     queryString += " WHERE ";
     queryString += condition;
 
