@@ -1,3 +1,5 @@
+USE sp73o8qv76sf6ope;
+
 CREATE DATABASE burgers_db;
 USE burgers_db;
 
